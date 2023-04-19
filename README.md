@@ -1,4 +1,4 @@
-## CURRICULUM VITAE
+# PROFILE
 - Nama : Jerianto Yohanes Mandalika
 - Tempat : Tahuna
 - Tanggal Lahir : 15 Juli 2003
